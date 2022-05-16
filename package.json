@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"this is where the tests would run!\"",
-    "build": " echo \"If I was using typescript, this is where I would run `tsc` !\""
+    "build": " echo \"If I was using typescript, this is where I would run the typescript compiler !\""
   },
   "repository": {
     "type": "git",
