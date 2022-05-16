@@ -1,6 +1,4 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
+name: Github Actions Demo
 on:
   push:
     branches: [ main ]
@@ -16,7 +14,7 @@ jobs:
         with:
           node-version: 14
       - name: NPM install
-        run: npm i
+        run: npm install
       - name: Run build
         run: echo "If I was using typescript, this is where I would run `tsc` !"
       - name: Run tests
