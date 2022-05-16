@@ -21,3 +21,5 @@ jobs:
         run: echo "If I was using typescript, this is where I would run `tsc` !"
       - name: Run tests
         run: echo "this is where the tests would run!"
+      - name: Complain
+        run: echo "uuugh CICD is booring!"
