@@ -23,5 +23,3 @@ jobs:
       - name: Run tests
         run: npm test
 
-      - name: Complain
-        run: echo "uuugh I hate Typescript!"
