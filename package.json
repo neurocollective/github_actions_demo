@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"this is where the tests would run!\"",
+    "build": " echo \"If I was using typescript, this is where I would run `tsc` !\""
   },
   "repository": {
     "type": "git",
