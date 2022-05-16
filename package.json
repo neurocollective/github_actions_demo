@@ -1,7 +1,7 @@
 {
   "name": "github_actions_demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://github.com/neurocollective/github_actions_demo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"this is where the tests would run!\"",
